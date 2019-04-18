@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f9f4e79-b8fc-4649-850e-24a5478dc560" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Linux$Main.ic" NAME="Main Coverage Results" MODIFIED="1555336705398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="175" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="502" column="5" selection-start-line="502" selection-start-column="5" selection-end-line="502" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#addActionListeners#0;class#MainFrame#0" />
+                <element signature="method#isArithmeticOperator#0;class#MainFrame#0" />
+                <element signature="method#isEqualOperator#0;class#MainFrame#0" />
+                <element signature="method#computeCalculation#0;class#MainFrame#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>accumulatorField</find>
+      <find>updateselfop</find>
+      <find>computeselfcalculation</find>
+      <find>computeselfCalculation</find>
+      <find>residualValue</find>
+      <find>outputaccumulator =</find>
+      <find>outputaccumulator</find>
+      <find>&quot;C&quot;</find>
+      <find>updateaccumulat</find>
+      <find>updateaccum</find>
+      <find>compute</find>
+      <find>isself</find>
+      <find>updateself</find>
+      <find>selfoperator</find>
+      <find>outputcopy</find>
+      <find>selfoperatorprev</find>
+      <find>isclicked</find>
+      <find>&quot;c&quot;</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ButtonPressed.java" />
+        <option value="$PROJECT_DIR$/src/MainFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="529" />
+    <option name="y" value="92" />
+    <option name="width" value="1057" />
+    <option name="height" value="549" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proiect_calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proiect_calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proiect_calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proiect_calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555356698210" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/proiecte_java/Database Example/src/Main.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Linux" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f9f4e79-b8fc-4649-850e-24a5478dc560" name="Default Changelist" comment="" />
+      <created>1555190592783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555190592783</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49838188" weight="0.22318527" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50161815" side_tool="true" weight="0.41030195" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49919093" weight="0.330373" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32928804" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/proiecte_java/13. GUI Components and Event Handling/RandomColor/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ButtonPressed.java" />
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Font.java" />
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Double.java" />
+    <entry file="file://$PROJECT_DIR$/proiecte_java/Database Example/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="502" column="5" selection-start-line="502" selection-start-column="5" selection-end-line="502" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addActionListeners#0;class#MainFrame#0" />
+            <element signature="method#isArithmeticOperator#0;class#MainFrame#0" />
+            <element signature="method#isEqualOperator#0;class#MainFrame#0" />
+            <element signature="method#computeCalculation#0;class#MainFrame#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
